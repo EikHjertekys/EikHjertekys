@@ -1,5 +1,4 @@
-
-![Profile_README_Banner](https://github.com/user-attachments/assets/15580923-f44e-47d0-ae8b-8320efc4ae30)
+![New Project(3)](https://github.com/user-attachments/assets/635befaa-6c6a-472d-ae4c-1f8a2558b537)
 
 - 🟣 Hi, I’m @EikHjertekys
 - 🎭 I’m interested in : Time Series Analysis, Music Production, Sewing
